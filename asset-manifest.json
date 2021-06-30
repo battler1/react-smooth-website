@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-smooth-website/static/css/main.297991f4.chunk.css",
+    "main.js": "/react-smooth-website/static/js/main.1c947dc8.chunk.js",
+    "main.js.map": "/react-smooth-website/static/js/main.1c947dc8.chunk.js.map",
+    "runtime-main.js": "/react-smooth-website/static/js/runtime-main.25dd28d5.js",
+    "runtime-main.js.map": "/react-smooth-website/static/js/runtime-main.25dd28d5.js.map",
+    "static/js/2.b0ab6b67.chunk.js": "/react-smooth-website/static/js/2.b0ab6b67.chunk.js",
+    "static/js/2.b0ab6b67.chunk.js.map": "/react-smooth-website/static/js/2.b0ab6b67.chunk.js.map",
+    "index.html": "/react-smooth-website/index.html",
+    "static/css/main.297991f4.chunk.css.map": "/react-smooth-website/static/css/main.297991f4.chunk.css.map",
+    "static/js/2.b0ab6b67.chunk.js.LICENSE.txt": "/react-smooth-website/static/js/2.b0ab6b67.chunk.js.LICENSE.txt",
+    "static/media/account.20a23324.svg": "/react-smooth-website/static/media/account.20a23324.svg",
+    "static/media/business.a4b505fc.svg": "/react-smooth-website/static/media/business.a4b505fc.svg",
+    "static/media/interview.e05c9bbf.svg": "/react-smooth-website/static/media/interview.e05c9bbf.svg",
+    "static/media/office.206821a5.svg": "/react-smooth-website/static/media/office.206821a5.svg",
+    "static/media/signup.8cd83914.svg": "/react-smooth-website/static/media/signup.8cd83914.svg",
+    "static/media/video.52e8933b.mp4": "/react-smooth-website/static/media/video.52e8933b.mp4",
+    "static/media/wallet.79cbd327.svg": "/react-smooth-website/static/media/wallet.79cbd327.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25dd28d5.js",
+    "static/js/2.b0ab6b67.chunk.js",
+    "static/css/main.297991f4.chunk.css",
+    "static/js/main.1c947dc8.chunk.js"
+  ]
+}
